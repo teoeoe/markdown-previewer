@@ -49,6 +49,7 @@ At the command prompt, type \`npm start\`.
 **bold**   
 *italic*  
 ***bold and italic***
+_hi_
 `
 
 marked.setOptions({
